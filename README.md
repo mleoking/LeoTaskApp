@@ -4,7 +4,7 @@
 
 # Applications
 
-The [Instruction](#Instruction) explains how to run an application.
+The [Instruction](#Instruction) section explains how to run an application.
 
 Name  | Description | Links
 ----- |-------------|----------
