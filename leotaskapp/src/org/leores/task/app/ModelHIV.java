@@ -30,9 +30,7 @@ public class ModelHIV extends Task {
 	}
 
 	/**
-	 * Using prepRept rather than beforeRep to do the rept initialisation aims
-	 * to
-	 * prevent beforeRept() from being executed when mpFit() finishes.
+	 * initialise status variables.
 	 */
 	protected boolean prepRept() {
 		q = q0;
