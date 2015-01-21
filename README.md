@@ -27,7 +27,7 @@ Steps to run an application:
 
 If the application runs successfully, you can use any text editor to modify its configuration in _tasks.xml_ or _tasks#.xml_, and then rerun (the 3rd step) the application.
 
-**Note:** the setup program of [Gnuplot](http://sourceforge.net/projects/gnuplot/files/gnuplot/4.6.5/) has an option to include its directory in the system Path:
+Note: the setup program of [Gnuplot](http://sourceforge.net/projects/gnuplot/files/gnuplot/4.6.5/) has an option to include its directory in the system Path:
 
 ![Gnuplot setup option to add its directory to the system Path variable](leotaskapp/doc/tick_gnuplot_setup_add_direcotory_to_Path.png)
 
