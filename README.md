@@ -8,7 +8,7 @@ The [Instruction](#Instruction) section explains how to run an application.
 
 Name  | Description | Links
 ----- |-------------|----------
-Hybrid HIV infection model [1] | A HIV infection model that incorporates both cell-free and cell-to-cell modes of HIV infection. The model is able to reproduce the whose course of HIV infection that includes three disctinctive phrases. The model can also be useful for evaluating existing and future HIV treatments. | [Code](leotaskapp/src/org/leores/task/app/ModelHIV.java) [Executable](https://github.com/mleoking/LeoTaskApp/releases/download/v1.0.0/modelhiv.zip)
+Hybrid HIV infection model [1] | A HIV infection model that incorporates both cell-free and cell-to-cell modes of HIV infection. The model is able to reproduce the whole course of HIV infection that includes three disctinctive phrases. The model can also be useful for evaluating existing and future HIV treatments. | [Code](leotaskapp/src/org/leores/task/app/ModelHIV.java) [Executable](https://github.com/mleoking/LeoTaskApp/releases/download/v1.0.0/modelhiv.zip)
 
 # Instruction
 
