@@ -21,11 +21,11 @@ Steps to run an application:
 
 1. Download the executable program through links in the [Applications](#applications) section.
 2. Unzip the downloaded zip package and enter the extracted directory.
-3. For MS Windows users, simple execute (double click) _run.bat_, for other system users, run the following command:
+3. For MS Windows users, simply execute (double click) _run.bat_, for other system users, run the following command:
 
     java -jar leotaskapp.jar
 
-If the application runs successfully, you can use any text editor to modify its configuration in tasks.xml or tasks#.xml, and then rerun (the 3rd step) the application.
+If the application runs successfully, you can use any text editor to modify its configuration in _tasks.xml_ or _tasks#.xml_, and then rerun (the 3rd step) the application.
 
 # References
 
