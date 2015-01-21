@@ -2,7 +2,7 @@
 
 [LeoTask](http://github.com/mleoking/LeoTask) is a lightweight parallel task running and results aggregation framework. This project, LeoTaskApp, includes applications based on the LeoTask framework.
 
-#Applications
+# Applications
 
 The [Instruction](#Instruction) section explains how to run an application.
 
