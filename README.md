@@ -25,7 +25,7 @@ Steps to run an application:
 
     java -jar leotaskapp.jar
 
-If the application runs successfully, you can use any text editor to modify its configuration in tasks.xml or tasks#.xml, and then rerun (the 3rd step) the application.
+If the application runs successfully, you can use any text editor to modify its configuration in _tasks.xml_ or _tasks#.xml_, and then rerun (the 3rd step) the application.
 
 # References
 
