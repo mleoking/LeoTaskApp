@@ -12,8 +12,6 @@ Hybrid HIV infection model [1] | A HIV infection model that incorporates both ce
 
 # Instruction
 
-For each application, you can either view its source code or download the executable program.
-
 Before running an applcation please install:
 
 * [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and include the the directory of the command _java_ in the system's _PATH_ environment variable.
