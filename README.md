@@ -25,7 +25,7 @@ If the application runs fine, you can then use any text editor to modify its con
 
 Name  | Description | Links
 ----- |-------------|----------
-Hybrid HIV infection model [1] | A HIV infection model that incorporates both cell-free and cell-to-cell modes of HIV infection. The model is able to reproduce the whose course of HIV infection, including three disctinctive phrases. The model can also be useful for evaluating existing and future HIV treatments. | [Source](https://github.com/mleoking/LeoTaskApp/blob/master/leotaskapp/src/org/leores/task/app/ModelHIV.java) [Executable]()
+Hybrid HIV infection model [1] | A HIV infection model that incorporates both cell-free and cell-to-cell modes of HIV infection. The model is able to reproduce the whose course of HIV infection, including three disctinctive phrases. The model can also be useful for evaluating existing and future HIV treatments. | [Code](https://github.com/mleoking/LeoTaskApp/blob/master/leotaskapp/src/org/leores/task/app/ModelHIV.java) [Executable]()
 
 # References
 
