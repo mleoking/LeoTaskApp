@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Tasks>
   <!--[1] "Hybrid spreading mechanisms and T cell activation shape the dynamics of HIV-1 infection" -->
-  <name val="modelhiv"/><usage val="1"/><dataLevels val=""/>
+  <name val="modelhiv"/><usage val="1"/><dataLevels val="SA;S%T"/>
   <variables class="org.leores.task.app.ModelHIV">
     <!-- Default parameter values in Table 1 of the paper [1]-->
     <load val="
@@ -13,15 +13,15 @@
     "/>
     <!-- Here are some of model calculations conducted in the paper [1]-->    
     <load val="
-	  info=hiv}
-	  info=hiv-no-cell-free-spread;i0=1E-6;v0=0;beta2=0}
-	  info=hiv-no-cell-to-cell-spread;beta1=0}
-	  info=hiv-no-cell-free-double-cell-to-cell;i0=1E-6;v0=0;beta2=0;beta1=#2*$beta1$#}
-	  info=hiv-double-cell-free-no-cell-to-cell;beta1=0;beta2=#2*$beta2$#}
-	  info=hiv-double-activation-after-D;trtFrom=$D$;trtTo=#$mt$+1#;trtA=#2*$a$#}
-      info=hiv-treatment-from-day3;trtFrom=3;trtTo=#$trtFrom$+30#;trtB1=0;trtB2=0;trtG=0}
-      info=hiv-treatment-from-cd4-of-500;trtFrom=1354;trtTo=#$trtFrom$+30#;trtB1=0;trtB2=0;trtG=0}
-      info=hiv-treatment-from-cd4-of-350;trtFrom=1408;trtTo=#$trtFrom$+30#;trtB1=0;trtB2=0;trtG=0}
+	  name=hiv}
+	  name=hiv-no-cell-free-spread;i0=1E-6;v0=0;beta2=0}
+	  name=hiv-no-cell-to-cell-spread;beta1=0}
+	  name=hiv-no-cell-free-double-cell-to-cell;i0=1E-6;v0=0;beta2=0;beta1=#2*$beta1$#}
+	  name=hiv-double-cell-free-no-cell-to-cell;beta1=0;beta2=#2*$beta2$#}
+	  name=hiv-double-activation-after-D;trtFrom=$D$;trtTo=#$mt$+1#;trtA=#2*$a$#}
+      name=hiv-treatment-from-day3;trtFrom=3;trtTo=#$trtFrom$+30#;trtB1=0;trtB2=0;trtG=0}
+      name=hiv-treatment-from-cd4-of-500;trtFrom=1354;trtTo=#$trtFrom$+30#;trtB1=0;trtB2=0;trtG=0}
+      name=hiv-treatment-from-cd4-of-350;trtFrom=1408;trtTo=#$trtFrom$+30#;trtB1=0;trtB2=0;trtG=0}
 	"/>
 	<smLoad val="beforeStyleVar=pi=300;}"/>
   </variables>
