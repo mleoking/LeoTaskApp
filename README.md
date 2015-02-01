@@ -12,7 +12,7 @@ Hybrid HIV Infection Model [1] | A HIV infection model that incorporates both ce
 
 # Instruction
 
-**1.Install the runtime environment:**
+**1. Install the runtime environment:**
 
 For Windows system users: 
 
