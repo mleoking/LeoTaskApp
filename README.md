@@ -12,20 +12,26 @@ Hybrid HIV Infection Model [1] | A HIV infection model that incorporates both ce
 
 # Instruction
 
-Before running an applcation please install:
+**1.Install the runtime environment:**
 
-* [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and include the the directory of the command _java_ in the system's _PATH_ environment variable.
-* [Gnuplot](http://sourceforge.net/projects/gnuplot/files/gnuplot/4.6.5/) and include the the directory of the command _gnuplot_ in the system's _PATH_ environment variable.
+For Windows system users: 
 
-Steps to run an application:
+* Download, unzip, and install (_install.bat_) the allinone package: [LeoTaskRunEnv](https://github.com/mleoking/LeoTaskApp/releases/download/v1.0.0/LeoTaskRunEnv.zip)
+
+For other system users:
+
+* Install [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and include the the directory of the command _java_ in the system's _PATH_ environment variable.
+* Install [Gnuplot](http://sourceforge.net/projects/gnuplot/files/gnuplot/4.6.5/) and include the the directory of the command _gnuplot_ in the system's _PATH_ environment variable.
+
+**2. Run an application:**
 
 1. Download the executable program through links in the [Applications](#applications) section.
 2. Unzip the downloaded zip package and enter the extracted directory.
 3. For MS Windows users, simply execute (double click) _run.bat_, for other system users, run the following command:
 
     java -jar leotaskapp.jar
-
-If the application runs successfully, you can use any text editor to modify its configuration in _tasks.xml_ or _tasks#.xml_, and then rerun (the 3rd step) the application.
+    
+4. If the application runs successfully, you can use any text editor to modify its configuration in _tasks.xml_ or _tasks#.xml_, and then rerun (the 3rd step) the application.
 
 Note: the setup program of [Gnuplot](http://sourceforge.net/projects/gnuplot/files/gnuplot/4.6.5/) has an option to include its directory in the system Path:
 
