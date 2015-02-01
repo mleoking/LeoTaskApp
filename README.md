@@ -16,7 +16,7 @@ Hybrid HIV Infection Model [1] | A HIV infection model that incorporates both ce
 
 For Windows system users: 
 
-* Download, unzip, and install (_install.bat_) the allinone package: [LeoTaskRunEnv](https://github.com/mleoking/LeoTaskApp/releases/download/v1.0.0/LeoTaskRunEnv.zip)
+* Download, unzip, and install (_install.bat_) the all-in-one package: [LeoTaskRunEnv](https://github.com/mleoking/LeoTaskApp/releases/download/v1.0.0/LeoTaskRunEnv.zip)
 
 For other system users:
 
