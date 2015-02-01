@@ -1,7 +1,3 @@
-# LeoTaskApp
-
-[LeoTask](http://github.com/mleoking/LeoTask) is a lightweight parallel task running and results aggregation framework. This project, LeoTaskApp, includes applications based on the LeoTask framework.
-
 # Applications
 
 The [Instruction](#instruction) section explains how to run an application.
@@ -9,6 +5,10 @@ The [Instruction](#instruction) section explains how to run an application.
 Name  | Description | Links
 ----- |-------------|----------
 Hybrid HIV Infection Model [1] | A HIV infection model that incorporates both cell-free and cell-to-cell modes of HIV infection. The model is able to reproduce the whole course of HIV infection that includes three disctinctive phrases. The model can also be useful for evaluating existing and future HIV treatments. | [Code](leotaskapp/src/org/leores/task/app/ModelHIV.java) [Configuration](leotaskapp/demo/modelhiv.xml) [**Executable**](leotaskapp/demo/modelhiv.zip?raw=true)
+
+# LeoTaskApp
+
+[LeoTask](http://github.com/mleoking/LeoTask) is a lightweight parallel task running and results aggregation framework. This project, LeoTaskApp, includes applications based on the LeoTask framework.
 
 # Instruction
 
