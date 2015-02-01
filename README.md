@@ -33,10 +33,6 @@ For other system users:
     
 4. If the application runs successfully, you can use any text editor to modify its configuration in _tasks.xml_ or _tasks#.xml_, and then rerun (the 3rd step) the application.
 
-Note: the setup program of [Gnuplot](http://sourceforge.net/projects/gnuplot/files/gnuplot/4.6.5/) has an option to include its directory in the system Path:
-
-![Gnuplot setup option to add its directory to the system Path variable](leotaskapp/doc/tick_gnuplot_setup_add_direcotory_to_Path.png)
-
 # References
 
 [1] Changwang Zhang, Shi Zhou, Elisabetta Groppelli, Pierre Pellegrino, Ian Williams, Persephone Borrow, Clare Jolly, Benjamin M. Chain, Hybrid spreading mechanisms and T cell activation shape the dynamics of HIV-1 infection, 2015.
