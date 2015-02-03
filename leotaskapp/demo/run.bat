@@ -1,2 +1,2 @@
-java -jar leotaskapp.jar -load=modelhiv.xml
+java -jar leotaskapp.jar
 pause
