@@ -4,7 +4,7 @@ The [Instruction](#instruction) section explains how to run an application.
 
 Name  | Description | Links
 ----- |-------------|----------
-Hybrid HIV Infection Model [1] | A HIV infection model that incorporates both cell-free and cell-to-cell modes of HIV infection. The model is able to reproduce the whole course of HIV infection that includes three disctinctive phrases. The model can also be useful for evaluating existing and future HIV treatments. | [Code](leotaskapp/src/org/leores/task/app/ModelHIV.java) [**Executable**](leotaskapp/demo/modelhiv.zip?raw=true)
+Hybrid HIV Infection Model [1] | A HIV infection model that incorporates both cell-free and cell-to-cell modes of HIV infection. The model is able to reproduce the whole course of HIV infection that includes three disctinctive phrases. The model can also be useful for evaluating existing and future HIV treatments. | [Code](leotaskapp/src/org/leores/task/app/ModelHIV.java) [**Executable**](leotaskapp/demo/modelhiv.zip?raw=true) [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004179)
 Hybrid Epidemic Spreading Model | A hybird epidemic spreading model incorporating both local and global spreading mechanisms. The model can be used to explore the optimal tradeoff between local and global spreading mechanisms. | [Code](leotaskapp/src/org/leores/task/app/EpiHybrid.java) [**Executable**](leotaskapp/demo/epihybrid.zip?raw=true)
 
 # LeoTaskApp
