@@ -36,5 +36,5 @@ For other system users:
 
 # References
 
-[1] Changwang Zhang, Shi Zhou, Elisabetta Groppelli, Pierre Pellegrino, Ian Williams, Persephone Borrow, Clare Jolly, Benjamin M. Chain, Hybrid spreading mechanisms and T cell activation shape the dynamics of HIV-1 infection, 2015.
+1. C. Zhang, S. Zhou, E. Groppelli, P. Pellegrino, I. Williams, P. Borrow, B. M. Chain, and C. Jolly. Hybrid Spreading Mechanisms and T Cell Activation Shape the Dynamics of HIV-1 Infection. PLoS Comput Biol. 2015 Apr 2;11(4):e1004179. [[Html]](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004179)[[Pdf]](http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1004179&representation=PDF)
 
