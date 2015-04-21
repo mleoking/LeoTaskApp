@@ -1,6 +1,6 @@
 # Applications
 
-The [Instruction](#instruction) section explains how to run an application.
+The [Instruction](#instruction) section explains how to run an application, modifiy an applicatin or create new applications.
 
 Name  | Description | Links
 ----- |-------------|----------
