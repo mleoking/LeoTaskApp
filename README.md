@@ -38,8 +38,8 @@ For other system users:
 **3. Modify an application or create new applications:**
 
 1. Download and install [Eclipse Java IDE](https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/keplersr2).
-2. Open the Eclipse Java IDE and import the LeoTaskApp project into your workspace. [Click here for details](doc/import-into-eclipse/README.md).
-3. Import the [LeoTask](https://github.com/mleoking/LeoTask) project into your workspace for your reference on the Application Programming Interface of the framework. [Click here for details](doc/import-into-eclipse/README.md).
+2. Open the Eclipse Java IDE and import the LeoTaskApp project into your workspace. [Click here for details](leotask/doc/import-into-eclipse/README.md).
+3. Import the [LeoTask](https://github.com/mleoking/LeoTask) project into your workspace for your reference on the Application Programming Interface of the framework. [Click here for details](leotask/doc/import-into-eclipse/README.md).
 4. Now you can modify an exiting application or create new applications in the LeoTaskApp project in your local Eclipse workspace.
 5. If you prefer you can submit and push your new applications to the LeoTaskApp project on Github.
 
