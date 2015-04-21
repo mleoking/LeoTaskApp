@@ -4,7 +4,9 @@
 
 ![Step 3](step3.png)
 
-The URI is https://github.com/mleoking/LeoTaskApp.git
+For the LeoTaskApp project, the URI is https://github.com/mleoking/LeoTaskApp.git
+
+For the LeoTask project, the URI is https://github.com/mleoking/LeoTask.git
 
 ![Step 4](step4.png)
 
