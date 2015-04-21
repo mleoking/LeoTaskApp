@@ -4,6 +4,8 @@
 
 ![Step 3](step3.png)
 
+The URI is https://github.com/mleoking/LeoTaskApp.git
+
 ![Step 4](step4.png)
 
 ![Step 5](step5.png)
