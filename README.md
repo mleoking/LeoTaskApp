@@ -1,6 +1,6 @@
 # Applications
 
-The [Instruction](#instruction) section explains how to run an application, modifiy an applicatin or create new applications.
+The [Instruction](#instruction) section explains how to run/modify/create an application.
 
 Name  | Description | Links
 ----- |-------------|----------
@@ -35,13 +35,13 @@ For other system users:
 * If the application runs successfully, you can use any text editor to modify its configuration in _tasks.xml_ or _tasks#.xml_, and then rerun (the 3rd step) the application.
 * 
 
-**3. Modify an application or create new applications:**
+**3. Modify/create an application:**
 
 1. Download and install [Eclipse Java IDE](https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/keplersr2).
 2. Open the Eclipse Java IDE and import the LeoTaskApp project into your workspace. [Click here for details](leotaskapp/doc/import-into-eclipse/README.md).
 3. Import the [LeoTask](https://github.com/mleoking/LeoTask) project into your workspace for your reference on the Application Programming Interface of the framework. [Click here for details](leotaskapp/doc/import-into-eclipse/README.md).
 4. Now you can modify an exiting application or create new applications in the LeoTaskApp project in your local Eclipse workspace.
-5. If you prefer you can submit and push your new applications to the LeoTaskApp project on Github.
+5. You can also submit and push your new applications to the LeoTaskApp project on Github.
 
 # References
 
