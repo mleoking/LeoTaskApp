@@ -45,5 +45,5 @@ For other system users:
 # References
 
 1. C. Zhang, S. Zhou, E. Groppelli, P. Pellegrino, I. Williams, P. Borrow, B. M. Chain, and C. Jolly. Hybrid Spreading Mechanisms and T Cell Activation Shape the Dynamics of HIV-1 Infection. PLoS Computational Biology. 2015 Apr 2;11(4):e1004179. [[Html]](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004179)[[Pdf]](http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1004179&representation=PDF)
-2. C. Zhang, S. Zhou, J. C. Miller, I. J. Cox, and B. M. Chain. Optimizing Hybrid Spreading in Metapopulations. Scientific Reports. 2015 (in press). [[Pdf]](http://arxiv.org/pdf/1409.7291v3.pdf)
+2. C. Zhang, S. Zhou, J. C. Miller, I. J. Cox, and B. M. Chain. Optimizing Hybrid Spreading in Metapopulations. Scientific Reports. 2015 Apr 29;5:9924. [[Html]](http://www.nature.com/srep/2015/150429/srep09924/full/srep09924.html)[[Pdf]](http://www.nature.com/srep/2015/150429/srep09924/pdf/srep09924.pdf)
 
