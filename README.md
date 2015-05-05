@@ -1,6 +1,6 @@
 # Applications
 
-The [Instruction](#instruction) section explains how to run/modify/create an application.
+The [Instruction](#instruction) section explains how to run/modify/create an application. [[Discussion]](https://groups.google.com/forum/#!forum/leotaskapp)
 
 Name  | Description | Links
 ----- |-------------|----------
